@@ -6,5 +6,3 @@ Course offered in 1st semester 2021-22
 Prof Deepak Giri
 <br/>
 Assignment 1 
-<br/>
-Check Branch "master" to see assignment

@@ -7,4 +7,4 @@ Prof Deepak Giri
 <br/>
 Assignment 1 
 <br/>
-Check Branch "Master" to see assignment
+Check Branch "master" to see assignment
